@@ -8,6 +8,8 @@
 import Foundation
 
 
-func method() {
-    print("2222222");
+class hhhhhhh2 {
+    func method() {
+        print("22222222");
+    }
 }

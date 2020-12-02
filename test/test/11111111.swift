@@ -13,5 +13,3 @@ class hhhhhhh1 {
         print("1111111111");
     }
 }
-
-
