@@ -7,6 +7,11 @@
 
 import Foundation
 
-func method() {
-    print("1111111111");
+
+class hhhhhhh1 {
+    func method() {
+        print("1111111111");
+    }
 }
+
+

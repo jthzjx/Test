@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+
+func method() {
+    print("2222222");
+}
