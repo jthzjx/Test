@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+
+class hhhhhhh3 {
+    func method() {
+        print("33333333");
+    }
+}
